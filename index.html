@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="board">
+        <form id="todo-form">
+            <input type="text" placeholder="New TODO" id="todo-input">
+            <button type="submit">Add <img src="Add image.png" style="height: 18px; padding-top: 6px;padding-left: 3px;" alt=""></button>
+        </form>
+        <div class="lanes">
+            <div class="swim-lane" id="todo-lane">
+                <h3 class="heading">TODO</h3>
+                <p class="task" draggable="true">Get groceries</p>
+                <p class="task" draggable="true">Feed the dog</p>
+                <p class="task" draggable="true">Mow the lawn</p>
+            </div>
+            <div class="swim-lane">
+                <h3 class="heading">Doing</h3>
+                <p class="task" draggable="true">Kar rah hu</p>
+            </div>
+            <div class="swim-lane">
+                <h3 class="heading">Done</h3>
+                <p class="task" draggable="true">Ho gaya</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="drag.js"></script>
+    <script src="todo.js"></script>
+</body>
+</html>
