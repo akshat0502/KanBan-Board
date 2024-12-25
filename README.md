@@ -9,6 +9,11 @@
 <br>
 <h2>Key Components:</h2>
 <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<ol>
   <li>HTML:
     <ul>
       <li>Structures the layout of the Kanban board with predefined columns.</li>
