@@ -9,9 +9,9 @@
 <br>
 <h2>Key Components:</h2>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>HTML:</li>
+  <li>CSS:</li>
+  <li>JavaScript:</li>
 </ol>
 <ol>
   <li>HTML:
