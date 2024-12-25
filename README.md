@@ -2,6 +2,7 @@
   <a href="https://akshat0502.github.io/KanBan-Board/">Kan Ban Board</a>
 </h1>
 <br>
+
 <p>
   A <b>Kanban Board</b> is a web application designed for task management, allowing users to visually organize tasks into columns like <b>To Do, Doing,</b> and <b>Done</b>. Built using <b>HTML, CSS</b>, and <b>JavaScript</b>, this project enables users to create, update, and move tasks between columns interactively.
 </p>
