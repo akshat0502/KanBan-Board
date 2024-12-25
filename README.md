@@ -9,17 +9,15 @@
 <br>
 <h2>Key Components:</h2>
 <ol>
-  <li>HTML:</li>
-  <li>CSS:</li>
-  <li>JavaScript:</li>
-</ol>
-<ol>
   <li>HTML:
     <ul>
       <li>Structures the layout of the Kanban board with predefined columns.</li>
       <li>Contains elements like task cards, buttons for adding tasks, and containers for organizing tasks within each column.</li>
     </ul>
   </li>
+  <li>CSS:</li>
+  <li>JavaScript:</li>
+</ol>
   <li>CSS:
     <ul>
       <li>Styles the Kanban board to make it visually appealing and user-friendly.</li>
