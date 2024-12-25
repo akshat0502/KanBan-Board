@@ -15,9 +15,6 @@
       <li>Contains elements like task cards, buttons for adding tasks, and containers for organizing tasks within each column.</li>
     </ul>
   </li>
-  <li>CSS:</li>
-  <li>JavaScript:</li>
-</ol>
   <li>CSS:
     <ul>
       <li>Styles the Kanban board to make it visually appealing and user-friendly.</li>
@@ -25,6 +22,8 @@
     <li>Defines styles for task cards, column headers, and drag-and-drop indicators.</li>
     </ul>
   </li>
+  <li>JavaScript:</li>
+</ol>
   <li>JavaScript:
     <ul>
       <li>Implements interactivity, such as creating new tasks, editing existing ones, and moving tasks between columns using drag-and-drop functionality.</li>
