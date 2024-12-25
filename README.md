@@ -9,20 +9,20 @@
 <br>
 <h2>Key Components:</h2>
 <ol>
-  <li>HTML:(inde.html)
+  <li>HTML: <b>(index.html)</b>
     <ul>
       <li>Structures the layout of the Kanban board with predefined columns.</li>
       <li>Contains elements like task cards, buttons for adding tasks, and containers for organizing tasks within each column.</li>
     </ul>
   </li>
-  <li>CSS:(style.css)
+  <li>CSS: <b>(style.css)</b>
     <ul>
       <li>Styles the Kanban board to make it visually appealing and user-friendly.</li>
     <li>Adds responsive design to ensure the board works on various screen sizes.</li>
     <li>Defines styles for task cards, column headers, and drag-and-drop indicators.</li>
     </ul>
   </li>
-  <li>JavaScript:(drag.js and todo.js)
+  <li>JavaScript: <b>(drag.js and todo.js)</b>
     <ul>
       <li>Implements interactivity, such as creating new tasks, editing existing ones, and moving tasks between columns using drag-and-drop functionality.</li>
     <li>Stores and retrieves tasks using local storage for persistence </li>
