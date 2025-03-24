@@ -15,7 +15,7 @@
       <li>Contains elements like task cards, buttons for adding tasks, and containers for organizing tasks within each column.</li>
     </ul>
   </li>
-  <li>CSS: <b>(style.css)</b>
+  <li><b>CSS: (style.css)</b>
     <ul>
       <li>Styles the Kanban board to make it visually appealing and user-friendly.</li>
     <li>Adds responsive design to ensure the board works on various screen sizes.</li>
